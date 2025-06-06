@@ -3,7 +3,14 @@
 ## Overview
 This project is a web-based monitoring system for baby incubators. It allows parents and authorized users to securely log in or sign up and remotely view real-time data from their baby's incubator, including humidity, temperature, and the baby's heart rate. The system uses a PostgreSQL database for reliable and secure data storage.
 
-> **Note:** This application requires specific hardware to collect and transmit incubator data. Without the necessary sensors and hardware setup, the system will not function as intended.
+> **Note:** This application requires specific hardware to collect and transmit incubator data. Without the necessary sensors and hardware setup, the system will not function.
+
+## Team Members
+- Habiba Mamdouh
+- Jumana Amr
+- Ghazzl Hossam
+- Menna Nabil
+- Malak Osama
 
 ## Features
 - **User Authentication:** Secure login and registration for parents and authorized personnel.
