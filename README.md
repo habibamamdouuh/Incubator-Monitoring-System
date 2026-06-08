@@ -41,9 +41,3 @@ This project is a web-based monitoring system for baby incubators. It allows par
 - Register for a new account or log in with existing credentials.
 - View your baby's incubator data in real time from the dashboard.
 - Log out securely when finished.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For questions or support, please contact the project maintainers via GitHub Issues.
