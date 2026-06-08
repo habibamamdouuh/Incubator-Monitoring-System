@@ -1,4 +1,4 @@
-# Baby Incubator Monitoring System – Task 1
+# Baby Incubator Monitoring System 
 
 ## Overview
 This project is a web-based monitoring system for baby incubators. It allows parents and authorized users to securely log in or sign up and remotely view real-time data from their baby's incubator, including humidity, temperature, and the baby's heart rate. The system uses a PostgreSQL database for reliable and secure data storage.
